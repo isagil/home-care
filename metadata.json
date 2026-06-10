@@ -1,0 +1,6 @@
+{
+  "name": "Ambiance Joy Nursing Services",
+  "description": "Trusted home care that feels like family. Specialized nursing and personal care services designed to help seniors live independently with safety, comfort, and dignity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
